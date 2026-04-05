@@ -29,7 +29,6 @@
     "@graphql-typed-document-node/core": "^3.2.0",
     "@types/node": "^25.3.2",
     "@types/react": "^19.0.0",
-    "@vienna/graphql": "file:../../../vienna/.worktrees/plugins/packages/graphql",
     "@tryvienna/ui": "^0.0.7",
     "graphql-tag": "^2.12.6",
     "lucide-react": "^0.500.0",
